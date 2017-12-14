@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="EmployeeInfoCreation" List="113" Url="_catalogs/wp">
+    <File Path="EmployeeInfoCreation\EmployeeInfoCreation.webpart" Url="LeaveApplication_EmployeeInfoCreation.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="LeaveApp" />
+    </File>
+  </Module>
+</Elements>
